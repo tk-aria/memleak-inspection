@@ -1,4 +1,4 @@
-# MemoryLeakBusterCustom
+# memleak-inspection
 forked by https://github.com/i-saint/MemoryLeakBuster
 
 ## description
