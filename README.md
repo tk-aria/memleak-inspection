@@ -1,7 +1,7 @@
 # MemoryLeakBusterCustom
 For c++ memory leak detection and memory debugging
  
-## ScreenShot
+## ScreenShots
 
 ![ss1](./ScreenShot/ss1.png)  
 
